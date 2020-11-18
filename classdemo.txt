@@ -1,1 +1,2 @@
-git practice is strated
+git practice is strated 
+new data is added
